@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+
+streamlit
+
+transformers
+torch
+accelerate
+
+wikipedia
+
+requests
+
+pydantic
+
+pytest
+httpx
